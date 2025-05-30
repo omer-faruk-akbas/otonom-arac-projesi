@@ -86,3 +86,7 @@ Bu proje, **Raspberry Pi 4 Model B** üzerinde çalışan, gerçek zamanlı gör
 🎥 Proje Videosu
 Projeye ait detaylı çalışma ve sonuçları içeren video buradan izlenebilir.
 📺 [Proje Videosunu İzle](https://www.youtube.com/watch?v=EHhP65NESIM)
+
+## 📂 Kod Durumu
+
+Kodlar şu an arşivleniyor ve daha sonra yüklenecektir. Repo güncellemelerini takip edebilirsiniz. 🚧
