@@ -89,4 +89,6 @@ Projeye ait detaylı çalışma ve sonuçları içeren video buradan izlenebilir
 
 ## 📂 Kod Durumu
 
-Kodlar şu an arşivleniyor ve daha sonra yüklenecektir. Repo güncellemelerini takip edebilirsiniz. 🚧
+> **Not:**  
+> Şu an otomatik hareket eden, trafik ışığı ve şerit algılama fonksiyonlarına sahip otonom araç kodu, `otonom_arac_kodu.py` dosyası altında paylaşılmıştır.  
+> Detaylı algoritma ve uygulama için bu dosyayı inceleyebilirsiniz.
